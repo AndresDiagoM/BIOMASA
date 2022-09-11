@@ -101,7 +101,6 @@
                             // echo "USUARIO O CONTRASEÑA INCORRECTA. INTENTE DE NUEVO.";
                             session_destroy();
 
-
                         }
                         elseif($message == 2){
                             echo "USUARIO NO REGISTRADO.";

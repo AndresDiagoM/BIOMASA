@@ -8,10 +8,6 @@
     $id_admin       = $_SESSION['ID_USUARIO'];
     $tipo_usuario   = $_SESSION['TIPO_USUARIO'];
 
-
-
-
-
 ?>
 
 <!DOCTYPE html>

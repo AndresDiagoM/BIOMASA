@@ -28,8 +28,6 @@
     $row1 = $result1->fetch_array(MYSQLI_NUM);
     $numero_filas = $result1->num_rows;
 
-
-
     if($numero_filas > 0){
 
 
