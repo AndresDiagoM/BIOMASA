@@ -1,0 +1,9 @@
+.contenedor_grafico{
+    margin-top: 110px;
+}
+
+#container{
+    margin: 0 auto;
+    height: 400px;
+    width: 80%;
+}
